@@ -9,9 +9,9 @@
 # 目录
  
 ## [2020年](https://github.com/YWJL/Diary)
-### [十月](https://github.com/bilibilifmk/My_diary/blob/master/2020/10%E6%9C%88.md)
-### [十一月](https://github.com/bilibilifmk/My_diary/blob/master/2020/11%E6%9C%88.md)
-### [十二月](https://github.com/bilibilifmk/My_diary/blob/master/2020/12%E6%9C%88.md)
+### [十月](https://github.com/YWJL/Diary/blob/master/2020/10%E6%9C%88.md)
+### [十一月](https://github.com/YWJL/Diary/blob/master/2020/11%E6%9C%88.md)
+### [十二月](https://github.com/YWJL/Diary/blob/master/2020/12%E6%9C%88.md)
 
 
 ### 开始时间2020.10.11
